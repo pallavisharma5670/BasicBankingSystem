@@ -1,5 +1,5 @@
 # BasicBankingSystem<br>
-I have created this project as a task assignment in my web development internship @Sparks Foundation.<br>
+A Web application based on sending money to other. <br>
 You can directly transfer money via email.<br>
 Technologies Used : HTML CSS JS<br>
 Platform : Visual Studio Code<br>
